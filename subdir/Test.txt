@@ -1,2 +1,8 @@
 Test2 : Sandeep's test file to merge.
+<<<<<<< HEAD
 Dance!!!
+=======
+Dance!!!
+Break Dance !!!
+Dance baby Dance !!!
+>>>>>>> a5e6e4fb99292552d08126061d2175e3096c5101
